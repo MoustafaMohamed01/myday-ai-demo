@@ -17,7 +17,7 @@ This public repo is a **showcase** with screenshots and project details.
 
 ## Screenshots
 <p float="left">
-  <img src="screenshots/home.png" width="250" />
+  <img src="screenshots/home.jpg" width="250" />
   <img src="screenshots/calendar.png" width="250" />
   <img src="screenshots/settings.png" width="250" />
 </p>

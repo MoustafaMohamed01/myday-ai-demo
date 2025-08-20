@@ -7,27 +7,33 @@ This public repo is a **showcase** with screenshots and project details.
 ---
 
 ## Features
-- Home dashboard with tasks & events
-- AI-powered assistant
-- Smart calendar & schedule
-- Inbox & notifications
-- Custom settings
+- Home dashboard with tasks & events  
+- AI-powered assistant  
+- Smart calendar & schedule  
+- Inbox & notifications  
+- Custom settings  
 
 ---
 
 ## Screenshots
-<p float="left">
-  <img src="screenshots/home.jpg" width="250" />
-  <img src="screenshots/calendar.png" width="250" />
-  <img src="screenshots/settings.png" width="250" />
+
+<p align="center">
+  <img src="screenshots/home.png" width="220" alt="Home" />
+  <img src="screenshots/home2.png" width="220" alt="Home (alt)" />
+  <img src="screenshots/ai-assistant.png" width="220" alt="AI Assistant" />
+  <img src="screenshots/ai-tools.png" width="220" alt="AI Tools" />
+  <img src="screenshots/inbox.png" width="220" alt="Inbox" />
+  <img src="screenshots/roadmap.png" width="220" alt="Roadmap" />
+  <img src="screenshots/schedule.png" width="220" alt="Schedule" />
+  <img src="screenshots/settings.png" width="220" alt="Settings" />
 </p>
 
 ---
 
 ## Tech Stack
-- Flutter (Dart)
+- **Flutter (Dart)**
 - Android & iOS
-- Custom UI/UX
+- Custom UI/UX design
 
 ---
 
@@ -39,4 +45,5 @@ This public repo is a **showcase** with screenshots and project details.
 
 ---
 
-⚠️ Note: MyDay AI is currently in development. This repo is a showcase of its design and concept while the app is being built.
+⚠️ **Note:** MyDay AI is currently in development.  
+This repo is a showcase of its **design and concept** while the app is being built.

@@ -25,7 +25,6 @@ This public repo is a **showcase** with screenshots and project details.
   <img src="screenshots/inbox.png" width="220" alt="Inbox" />
   <img src="screenshots/roadmap.png" width="220" alt="Roadmap" />
   <img src="screenshots/schedule.png" width="220" alt="Schedule" />
-  <img src="screenshots/settings.png" width="220" alt="Settings" />
 </p>
 
 ---

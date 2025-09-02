@@ -21,7 +21,6 @@ This public repo is a **showcase** with screenshots and project details.
 
 <p align="center">
   <img src="screenshots/v1/home.png" width="220" alt="Home v1" />
-  <img src="screenshots/v1/home2.png" width="220" alt="Home (alt) v1" />
   <img src="screenshots/v1/ai-assistant.png" width="220" alt="AI Assistant v1" />
   <img src="screenshots/v1/ai-tools.png" width="220" alt="AI Tools v1" />
   <img src="screenshots/v1/inbox.png" width="220" alt="Inbox v1" />

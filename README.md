@@ -17,14 +17,25 @@ This public repo is a **showcase** with screenshots and project details.
 
 ## Screenshots
 
+### v1 (Old Version)
+
 <p align="center">
-  <img src="screenshots/home.png" width="220" alt="Home" />
-  <img src="screenshots/home2.png" width="220" alt="Home (alt)" />
-  <img src="screenshots/ai-assistant.png" width="220" alt="AI Assistant" />
-  <img src="screenshots/ai-tools.png" width="220" alt="AI Tools" />
-  <img src="screenshots/inbox.png" width="220" alt="Inbox" />
-  <img src="screenshots/roadmap.png" width="220" alt="Roadmap" />
-  <img src="screenshots/schedule.png" width="220" alt="Schedule" />
+  <img src="screenshots/v1/home.png" width="220" alt="Home v1" />
+  <img src="screenshots/v1/home2.png" width="220" alt="Home (alt) v1" />
+  <img src="screenshots/v1/ai-assistant.png" width="220" alt="AI Assistant v1" />
+  <img src="screenshots/v1/ai-tools.png" width="220" alt="AI Tools v1" />
+  <img src="screenshots/v1/inbox.png" width="220" alt="Inbox v1" />
+  <img src="screenshots/v1/roadmap.png" width="220" alt="Roadmap v1" />
+  <img src="screenshots/v1/schedule.png" width="220" alt="Schedule v1" />
+</p>
+
+---
+
+### v2 (Latest Version)
+
+<p align="center">
+  <img src="screenshots/v2/home.png" width="220" alt="Home v2" />
+  <img src="screenshots/v2/ai-assistant.png" width="220" alt="AI Assistant v2" />
 </p>
 
 ---

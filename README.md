@@ -36,6 +36,7 @@ This public repo is a **showcase** with screenshots and project details.
 <p align="center">
   <img src="screenshots/v2/home.png" width="220" alt="Home v2" />
   <img src="screenshots/v2/ai-assistant.png" width="220" alt="AI Assistant v2" />
+  <img src="screenshots/v2/calender.png" width="220" alt="Calender v2" />
 </p>
 
 ---
